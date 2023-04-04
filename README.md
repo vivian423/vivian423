@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vivian</h1>
-<h3 align="center">Software engineer developing full-stack solutions</h3>
+<h1 align="center">👋 Vivian here!</h1>
+<h3 align="center">I'm a new software developer creating full-stack solutions</h3>
+
+- 🎶 English 🇨🇦 & Español 🇪🇸
 
 - 🌱 I’m currently learning **react.js**
 
-- 📫 How to reach me **vivian.ortega.c@gmail.com**
+- 📫 Drop me a note at **vivian.ortega.c@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
